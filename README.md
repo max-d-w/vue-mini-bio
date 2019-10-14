@@ -1,4 +1,4 @@
-# vue-mini-bio
+# Vue Biography Site Mini-Project
 Create a SPA (single page application) about yourself with at least three components that are navigated using buttons. Styling is not required as long as the page is legible.
 
 ## Important Points
